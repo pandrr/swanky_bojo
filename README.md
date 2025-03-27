@@ -1,4 +1,4 @@
-## the swaky bojo
+## the swanky bojo
 
 - an experimental handwired 3d printed keyboard
 
