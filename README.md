@@ -4,6 +4,7 @@
 
 #### random facts
 
+- [gallery](https://github.com/pandrr/swanky_bojo/issues/1)
 - can be printed without support
 - can be printed on a bambulab a1 256x256 printer
 - m5 screws - 2x 23mm / 3x 20mm
